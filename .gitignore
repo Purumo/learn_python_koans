@@ -25,3 +25,4 @@ venv
 koans/
 .ipynb_checkpoints/
 koans/.ipynb_checkpoints/
+koans/helpers/.ipynb_checkpoints/
