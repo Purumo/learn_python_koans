@@ -22,3 +22,7 @@ tilda_assets
 .idea
 .pytest_cache
 venv
+koans/
+.ipynb_checkpoints/
+koans/.ipynb_checkpoints/
+koans/helpers/.ipynb_checkpoints/
